@@ -1,0 +1,8 @@
+tensorflow
+torch
+opencv-python
+pyzbar
+numpy
+pillow
+requests
+matplotlib
