@@ -1,7 +1,7 @@
 # 🍽️ NutriLens — AI Nutrition Tracker
 
 <p align="center">
-  <img src="test_images\nutrilens_v1_clean.svg" width="600"/>
+  <img src="test_images\Screenshot 2026-03-18 215333.png" width="600"/>
 </p>
 
 <p align="center">
