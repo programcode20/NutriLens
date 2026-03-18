@@ -1,8 +1,6 @@
 # 🍽️ NutriLens — AI Nutrition Tracker
 
-<p align="center">
-  <img src="test_images\Screenshot 2026-03-18 215333.png" width="600"/>
-</p>
+> An end-to-end AI-powered nutrition tracking web app specifically designed for **Indian cuisine**. Upload a food photo or scan a barcode to instantly get nutrition facts, track daily intake, and receive personalized AI-driven dietary insights.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python"/>
@@ -13,7 +11,7 @@
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square"/>
 </p>
 
-> An end-to-end AI-powered nutrition tracking web app specifically designed for **Indian cuisine**. Upload a food photo or scan a barcode to instantly get nutrition facts, track daily intake, and receive personalized AI-driven dietary insights.
+
 
 ---
 
