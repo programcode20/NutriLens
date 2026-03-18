@@ -1,7 +1,7 @@
 # 🍽️ NutriLens — AI Nutrition Tracker
 
 <p align="center">
-  <img src="test_images/sample1.jpg" width="600"/>
+  <img src="C:\Users\KIIT0001\OneDrive\Documents\NutriLens\test_images\nutrilens_v1_clean.svg" width="600"/>
 </p>
 
 <p align="center">
